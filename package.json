@@ -1,0 +1,33 @@
+{
+  "name": "storybook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
+  },
+  "repository" : {
+    "type" : "git",
+    "url": "ssh://git@github.com:totemkevin/poc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.6.11"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.6",
+    "@storybook/addon-actions": "^5.3.18",
+    "@storybook/addon-links": "^5.3.18",
+    "@storybook/addons": "^5.3.18",
+    "@storybook/vue": "^5.3.18",
+    "babel-loader": "^8.1.0",
+    "babel-preset-vue": "^2.0.2",
+    "lerna": "^3.21.0",
+    "vue-loader": "^15.9.2",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
