@@ -11,12 +11,9 @@ storiesOf('JTableRow', module)
       />
     `,
     data: () => ({
-      values: [[
+      values: [
         'José Silva',
         'email@email.com'
-      ],[
-        'José Silva',
-        'email@email.com'
-      ]]
+      ]
     })
   }))
