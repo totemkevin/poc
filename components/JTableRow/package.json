@@ -1,6 +1,6 @@
 {
   "name": "@totemkevin/j-table-row",
-  "version": "0.1.1",
+  "version": null,
   "publishConfig": {
     "access": "public"
   }
