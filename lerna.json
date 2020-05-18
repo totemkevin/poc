@@ -2,5 +2,5 @@
   "packages": [
     "components/*"
   ],
-  "version":"Fixed"
+  "version": "0.1.1"
 }
