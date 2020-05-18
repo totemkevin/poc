@@ -1,7 +1,8 @@
 {
   "name": "@totemkevin/j-table-row",
-  "version": null,
+  "version": "",
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "1d0c1ce6d3a62edeeae98215b98e1c4e85601197"
 }
