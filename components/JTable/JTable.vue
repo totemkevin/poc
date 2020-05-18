@@ -5,7 +5,7 @@
         v-for="(label, index) in header"
         :key="index"
       >
-        {{ label }}
+        O {{ label }}
       </th>
     </tr>
     <JTableRow
