@@ -1,0 +1,26 @@
+{
+  "name": "j-rin",
+  "version": "0.0.9",
+  "description": "> TODO: description",
+  "author": "Kevin Hu <kevin.hu@belstar.com.cn>",
+  "homepage": "https://github.com/totemkevin/poc#readme",
+  "license": "ISC",
+  "main": "lib/J-RIN.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/totemkevin/poc.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/totemkevin/poc/issues"
+  }
+}
